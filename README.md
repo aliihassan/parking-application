@@ -1,7 +1,14 @@
-# Parking Application - Vehikle Coding Exercise
+# Parking Application - Vehick
 
+## Project setup
+```
+yarn install
+```
 
-### Run Project
+### Compile for development
 ```
 yarn serve
 ```
+
+### Decisions Taken
+
