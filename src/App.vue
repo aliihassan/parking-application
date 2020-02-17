@@ -71,7 +71,7 @@ export default {
         this.parkingFull = this.isParkingFull(this.availableParkingSpots);
         this.selectedTicket.ticketPaid = true;
       } else {
-        alert("You have already paid this ticket.");
+        alert("Invalid. Please enter a correct ticket.");
       }
     },
     isParkingFull(availableParkingSpots) {
